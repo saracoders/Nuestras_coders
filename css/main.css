@@ -1,0 +1,41 @@
+/* Ingresa tu css aqui */
+.container {
+	width: 700px;
+	height: 800px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+.coders li {
+	display: inline-block;
+	list-style: none;
+	margin: 10px;
+
+}
+
+.coders img {
+	width: 200px;
+	height: 200px;
+	border: 2px gray solid;
+}
+.coders {
+	padding-left: 0px;
+}
+hr {
+	height:5px;
+	width: 20%;
+	background-color: black;
+	margin-left: 0; 
+}
+
+.coders .foto div {
+	margin-top: -30px;
+    text-align: center;
+    position: relative;
+    color: white;
+    background: rgb(143,135,135,0.5)
+}
+
+.coders .foto a {
+	text-decoration: none;
+}
